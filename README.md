@@ -48,4 +48,9 @@ Asset growth does not represent profit or investment returns.
 [Read the methodology and findings](reports/findings.md)
 [View the SQL analysis](sql/financial_sector_analysis.sql)
 
+## Reproduce this project
+
+See the [step-by-step setup guide](docs/REPRODUCE.md)
+to clean the source data, load PostgreSQL and regenerate the charts.
+
 This project is being developed as part of my Data Analyst portfolio.
