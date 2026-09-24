@@ -1,5 +1,4 @@
-findings
-Dutch Financial Sector Analysis — findings
+
 Findings
 Financial corporations held €12,193.06 billion in financial assets at year-end 2025, the largest amount among the four individual sectors compared.
 Their financial assets increased from €10,555.39 billion in 2015 to €12,193.06 billion in 2025, a 15.52% nominal increase. This is balance-sheet growth, not an investment return or profit measure.
