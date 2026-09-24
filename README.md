@@ -26,9 +26,7 @@ Completed:
 - Developed SQL analyses of sector size, asset growth and composition.
 - Created charts and documented findings.
 
-Next:
-- Add the cleaned dataset and reproducible preparation scripts.
-- Build an interactive dashboard.
+
 
 ## Results
 
